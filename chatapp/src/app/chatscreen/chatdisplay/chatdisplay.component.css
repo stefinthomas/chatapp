@@ -1,0 +1,148 @@
+.test{
+    padding-left: 300px;
+}
+.example-card{
+    width: 60%;
+    
+    margin-top: 20px;
+    height: 20%;
+}
+/* .example-card {
+    max-width: 400px;
+  } */
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  .example-card1{
+      margin-left: 40%;
+     
+      
+  }
+  .tick{
+      padding-left: 185px;
+      color: grey;
+      font-size: .7rem;
+      
+  }
+
+.tick1{
+    padding-left: 340px;
+    color: grey;
+    font-size: .7rem;
+}
+
+.sub-title-chat{
+    color: black;
+    width: 50%;
+}
+
+
+.person-name{
+    color:white;
+}
+
+.person-name{
+    font-weight: bold;
+}
+.dot{
+    color:white
+}
+
+/* .example-card3{
+    margin-right: 50px;
+    margin-top: 80px;
+    height: 50px;
+} */
+.send-buttton{
+    color:blue;
+    background-color: black;
+    margin-left: 530px;
+    margin-bottom: 30px;
+}
+
+/* .heading-title{
+    color: white;
+} */
+
+.chat-display-tiltle{
+    color:white;
+    padding-top: 15px;
+    padding-left: 3px;
+    font-size: 1.3rem;
+}
+
+.cat-display-subtitle{
+    color: rgb(168, 165, 165);
+    padding-left: 3px;
+    font-size: .7rem;
+}
+.div-color{
+    border-top-color: white;
+}
+.video-icon{
+    color: white;
+    margin-left: 20px
+}
+.more-icon{
+    color: white;
+    margin-left: 550px;
+}
+.example-form{
+    color: white;
+    padding-top: 100px;
+    padding-left: 300px;
+}
+.example-full-width{
+    color: white;
+}
+.input-color{
+    color: white;
+}
+
+.message-box{
+    background-color: grey;
+    border: none;
+    padding-bottom: 10px;
+    width: 70%;
+    
+}
+
+
+.example-card-message{
+    margin-top: 46%;
+
+    
+    background-color: grey;
+    width: 367px;
+    height: 60px;
+    margin-left: px;
+    
+}
+.pin-icon{
+    color: rgba(0, 0, 0, 0.651);
+    padding-left: 5%;
+}
+.send-icon{
+    color: white;
+    padding-left: 15%;
+    
+    
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: rgba(255, 255, 255, 0.863);
+    opacity: 1; /* Firefox */
+  }
+
+  .example-header-image1 {
+    background-image: url('https://us.123rf.com/450wm/fizkes/fizkes2001/fizkes200101262/137537874-head-shot-studio-portrait-millennial-indial-pretty-smiling-girl-wearing-eyeglasses-looking-at-camera.jpg?ver=6');
+    background-size: cover;
+  }
+
+
+ 
+
+.title{
+    color:white
+}

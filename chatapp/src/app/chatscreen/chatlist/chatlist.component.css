@@ -1,0 +1,83 @@
+.row{
+    color: teal;
+}
+.search-form{
+    border-radius: 3px;
+    color: red;
+    
+}
+.example-header-image {
+    background-image: url('https://www.businessbecause.com/uploads/default/news/images/e1055ba5f628f0b964c4b89031f1daf2ecf16b48.jpg');
+    background-size: cover;
+  }
+  .example-header-image1 {
+    background-image: url('https://us.123rf.com/450wm/fizkes/fizkes2001/fizkes200101262/137537874-head-shot-studio-portrait-millennial-indial-pretty-smiling-girl-wearing-eyeglasses-looking-at-camera.jpg?ver=6');
+    background-size: cover;
+  }
+
+  .example-header-image2 {
+    background-image: url('https://www.pngkit.com/png/full/402-4022882_the-cdru-people-were-at-all-times-professional.png');
+    background-size: cover;
+  }
+
+
+  .example-header-image3 {
+    background-image: url('https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmVzc2lvbmFsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80');
+    background-size: cover;
+  }
+
+
+  .example-header-image4 {
+    background-image: url('https://image.shutterstock.com/image-photo/young-beautiful-happy-businesswoman-sitting-260nw-165623561.jpg');
+    background-size: cover;
+  }
+
+  .example-header-image5 {
+    background-image: url('https://p.jing.fm/clipimg/small/195-1959911_person-png-review-middle-age-professional-woman.png');
+    background-size: cover;
+  }
+
+  .example-header-image6 {
+    background-image: url('https://c.pxhere.com/photos/50/77/business_meeting_people_corporate_success_person_professional-893119.jpg!d');
+    background-size: cover;
+  }
+  .example-card{
+      background-color:rgb(92, 91, 91);
+  }
+  .header{
+      padding-left: 15px;
+  }
+  .title{
+      color:white
+  }
+  .sub-title{
+      color:rgb(185, 184, 184);
+  }
+  .search-input{
+      padding-left: 20px;
+      color: black;
+  }
+  .bell{
+      padding-left: 180px;
+      color: white;
+      padding-top: 8px;
+  }
+  .tick{
+      color:rgb(228, 227, 225);
+      padding-left: 120px;
+      
+  }
+  .pro-class-tiltle{
+    color: white;
+    padding-left: 17px;
+    padding-top: 20px;
+  }
+  
+.sub-chatlist{
+  color: rgba(245, 245, 245, 0.719);
+  font-weight: bold;
+  padding-left: 20px;
+  font-size: .7rem;
+}
+
+  
